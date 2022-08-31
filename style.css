@@ -1,0 +1,61 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+
+}
+.heading{
+    font-size: 50px;
+}
+.orange-color{
+    color: orange;
+}
+section{
+    display: flex;
+    margin-bottom: 100px;
+
+}
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+    padding-right: 10%;
+}
+.half-width img{
+    width: 70%;
+    
+}
+.link-button{
+    text-decoration: none;
+   background-image: linear-gradient(orange, tomato);
+    padding: 15px 40px;
+    color: white;
+    font-weight: 700;
+    border-radius: 35px;
+}
+.link-buttonn{
+    text-decoration: none;
+    background-image: linear-gradient(orange,tomato);
+    padding: 15px 40px;
+    color: white;
+    font-weight: 700;
+    border-radius:40px;
+}
+.middle-photo{
+    width: 50%;
+    
+}
+.about-me{
+    padding-right: 20%;
+}
+.top{
+    margin-top: 50px;
+}
+.top-banner{
+    background-image: url(/eat-healthy-main/images/shapes/Frame\ 57.jpg);
+    background-repeat: no-repeat;
+}
+.middle{
+    text-align: center;
+}
+.p{
+    text-align: start;
+}
