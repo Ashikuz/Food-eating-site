@@ -55,7 +55,38 @@ section{
 }
 .middle{
     text-align: center;
+
 }
 .p{
     text-align: start;
+}
+.recipies{
+    padding-top: 10px;
+}
+.recipie{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    border-radius: 20px;
+    box-shadow: 10px 10px 60px gray;
+}
+.picture{
+    padding-top: 15px;
+}
+.foot{
+    color: orange;
+}
+.footer{
+    text-align: center;
+    background-color: black;
+    height: 300px;
+}
+.paper{
+    color: white;
+}
+.gray{
+    color: gray;
+}
+.up{
+    padding-top: 35px;
 }
